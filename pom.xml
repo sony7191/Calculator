@@ -2,12 +2,12 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.ravi.cal</groupId>
-  <artifactId>RaviCalculator</artifactId>
+  <groupId>com.Sindhu.cal</groupId>
+  <artifactId>SindhuCalculator</artifactId>
   <version>1.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>RaviCalculator</name>
+  <name>SindhuCalculator</name>
   <url>http://maven.apache.org</url>
 
   <properties>
